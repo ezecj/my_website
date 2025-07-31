@@ -1,0 +1,22 @@
+[
+  {
+    "name": "John Doe",
+    "role": "Farm Manager",
+    "image": "images/team1.jpg"
+  },
+  {
+    "name": "Jane Smith",
+    "role": "Livestock Supervisor",
+    "image": "images/team2.jpg"
+  },
+  {
+    "name": "Michael Green",
+    "role": "Crop Specialist",
+    "image": "images/team3.jpg"
+  },
+  {
+    "name": "Emily Brown",
+    "role": "Poultry Expert",
+    "image": "images/team4.jpg"
+  }
+]
